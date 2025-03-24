@@ -26,8 +26,8 @@ Este projeto é um web scraper que coleta dados de dividendos e proventos de aç
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/esscova/data-engineering.git
-   cd data-engineering/agenda_dividendos_scraper
+   git clone https://github.com/esscova/agenda-dividendos-scrap.git
+   cd agenda-dividendos-scrap
    ```
 
 2. Instale os pacotes necessários:
